@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://D:/spring-microservices-new/api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://D:/spring-microservices-new/discovery-server/src/main/java" charset="UTF-8" />
+    <file url="file://D:/spring-microservices-new/inventory-service/src/main/java" charset="UTF-8" />
+    <file url="file://D:/spring-microservices-new/inventory-service/src/main/resources" charset="UTF-8" />
+    <file url="file://D:/spring-microservices-new/order-service/src/main/java" charset="UTF-8" />
+    <file url="file://D:/spring-microservices-new/order-service/src/main/resources" charset="UTF-8" />
+    <file url="file://D:/spring-microservices-new/product-service/src/main/java" charset="UTF-8" />
+    <file url="file://D:/spring-microservices-new/product-service/src/main/resources" charset="UTF-8" />
+    <file url="file://D:/spring-microservices-new/src/main/java" charset="UTF-8" />
+    <file url="file://D:/spring-microservices-new/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
